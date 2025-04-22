@@ -1,13 +1,29 @@
 # Quant Strategy 量化策略  
-qmt、ptrade、okx、bnb  
+qmt、ptrade、okx、bnb、joinquant聚宽  
 
-这是一个量化代码合集，目前是以qmt为主，逐步完善  
-
-csdn博客地址: https://blog.csdn.net/2401_82851462  
-作者微信: yiyou888wx  
-(可开户、代写) 标注来源  
-量化优势：对抗人性、不用盯盘  
-
+这是一个量化代码合集，目前是以qmt、okx、聚宽为主，逐步完善  
+## 关于作者
+| 平台 | 链接 | 说明 |
+|:-------|:-------:|-------:|
+| 微信  | yiyou888wx   | 备注GitHub  |
+| 微信群  | 加我拉你   | 技术交流  |
+| QQ群  | 983459113   | 资料下载  |
+| csdn博客  | [点击跳转](https://blog.csdn.net/2401_82851462)   | 发布最及时  |
+| joinquant聚宽  | [点击跳转](https://www.joinquant.com/view/community/detail/2e31e2d643c391e9eeed79e4d107c0fd)   | 可复制回测  |
+| 小红书  | 搜"芒果量化"   | 图文解说  |
+| X/telegram  | TraderMaga59800   | Foreign users  |
+ 
+(可开户、代写)量化优势：对抗人性、不用盯盘  
 麻烦点个小星星支持一下哦~  
 Please give a star to support it.  
-X / telegram: TraderMaga59800  
+
+## 内容介绍
+|  平台  | 说明 | 文件 |
+|:-------|:-------:|-------:|
+| **qmt**  |  macd策略，实时交易  | [qmt_macd策略.py](qmt_macd策略.py)  |
+| ----  |  --------  | --------  |
+| **okx**  |  okx现货交易代码  | [okx_spot_inst_demo.py](okx_spot_inst_demo.py)  |
+| okx  |  okx合约交易代码  | [okx_contract_swap_demo.py](okx_contract_swap_demo.py)  |
+
+
+
