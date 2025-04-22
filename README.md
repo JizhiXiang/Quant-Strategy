@@ -18,12 +18,14 @@ qmt、ptrade、okx、bnb、joinquant聚宽
 Please give a star to support it.  
 
 ## 内容介绍
-|  平台  | 说明 | 文件 |
-|:-------|:-------:|-------:|
-| **qmt**  |  macd策略，实时交易  | [qmt_macd策略.py](qmt_macd策略.py)  |
-| ----  |  --------  | --------  |
-| **okx**  |  okx现货交易代码  | [okx_spot_inst_demo.py](okx_spot_inst_demo.py)  |
-| okx  |  okx合约交易代码  | [okx_contract_swap_demo.py](okx_contract_swap_demo.py)  |
+|  平台  | 说明 | 文件 | 外部链接 | 
+|:-------|:-------:|-------:|-------:|
+| **聚宽**  | 年均18%，44行代码  | [joinquant_rsrs因子_年均18%收益.py](joinquant_rsrs因子_年均18%收益.py)  | [点击跳转](https://www.joinquant.com/view/community/detail/4b45a0d76897c3463b394a1ef554041a) |
+| ----  |  --------  | --------  | --------  |
+| **qmt**  |  macd策略，实时交易  | [qmt_macd策略.py](qmt_macd策略.py)  | [点击跳转](https://blog.csdn.net/2401_82851462/article/details/146592641) |
+| ----  |  --------  | --------  | --------  |
+| **okx**  |  okx现货交易代码  | [okx_spot_inst_demo.py](okx_spot_inst_demo.py)  | [点击跳转](https://blog.csdn.net/2401_82851462/article/details/146811185) |
+| okx  |  okx合约交易代码  | [okx_contract_swap_demo.py](okx_contract_swap_demo.py)  | [点击跳转](https://blog.csdn.net/2401_82851462/article/details/146639685) |
 
 
 
