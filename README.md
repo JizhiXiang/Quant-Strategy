@@ -1,5 +1,6 @@
 # Quant Strategy 量化策略  
 qmt、ptrade、okx、bnb、joinquant聚宽  
+[点这里](README.md) 查看格式更好
 
 这是一个量化代码合集，目前是以qmt、okx、聚宽为主，逐步完善  
 ## 关于作者
