@@ -7,7 +7,7 @@ qmt、ptrade、okx、bnb、joinquant聚宽
 | 平台 | 链接 | 说明 |
 |:-------|:-------:|-------:|
 | 微信  | yiyou888wx   | 备注GitHub  |
-| 微信群  | 加我拉你   | 技术交流  |
+| 微信群  | 请往下翻   | 技术交流  |
 | QQ群  | 983459113   | 资料下载  |
 | csdn博客  | [点击跳转](https://blog.csdn.net/2401_82851462)   | 发布最及时  |
 | joinquant聚宽  | [点击跳转](https://www.joinquant.com/view/community/detail/2e31e2d643c391e9eeed79e4d107c0fd)   | 可复制回测  |
@@ -17,6 +17,10 @@ qmt、ptrade、okx、bnb、joinquant聚宽
 (可开户、代写)量化优势：对抗人性、不用盯盘  
 麻烦点个小星星支持一下哦~  
 Please give a star to support it.  
+
+加微信群，更多畅聊！
+<img src="微信群.jpg" width="30%">
+
 
 ## 内容介绍
 |  平台  | 说明 | 文件 | 外部链接 | 
