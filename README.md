@@ -19,7 +19,7 @@ qmt、ptrade、okx、bnb、joinquant聚宽
 Please give a star to support it.  
 
 加微信群，更多畅聊！
-<img src="微信群.jpg" width="30%">
+<img src="微信群.jpg" width="35%">
 
 
 ## 内容介绍
