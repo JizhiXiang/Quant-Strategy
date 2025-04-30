@@ -18,7 +18,7 @@ qmt、ptrade、okx、bnb、joinquant聚宽
 麻烦点个小星星支持一下哦~  
 Please give a star to support it.  
 
-加微信群，更多畅聊！
+加微信群，更多技术畅聊！(5.7有效)
 <img src="微信群.jpg" width="35%">
 
 
