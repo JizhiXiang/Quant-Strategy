@@ -27,6 +27,7 @@ Please give a star to support it.
 |:-------|:-------:|-------:|-------:|
 | **聚宽**  | 年均18%，44行代码  | [joinquant_rsrs因子_年均18%收益.py](joinquant_rsrs因子_年均18%收益.py)  | [点击跳转](https://www.joinquant.com/view/community/detail/4b45a0d76897c3463b394a1ef554041a) |
 | **聚宽**  | 网格交易，适合震荡  | [joinquant_网格交易_v1.py](joinquant_网格交易_v1.py)  | [点击跳转](https://www.joinquant.com/view/community/detail/fc1595a15fabbfea7bd85d033ba3dbbe) |
+| **聚宽**  | macd不一致研究  | [joinquant_计算macd值与同花顺不一致原因探索.py](joinquant_计算macd值与同花顺不一致原因探索.py)  | [点击跳转](https://www.joinquant.com/view/community/detail/6d7405065eaabd64d156ca52b6ed548b) |
 | ----  |  --------  | --------  | --------  |
 | **qmt**  |  macd策略，实时交易  | [qmt_macd策略.py](qmt_macd策略.py)  | [点击跳转](https://blog.csdn.net/2401_82851462/article/details/146592641) |
 | ----  |  --------  | --------  | --------  |
