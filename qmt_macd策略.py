@@ -20,7 +20,7 @@ def init(C):
 	# 设置股票代码，上海SH结尾，深圳SZ结尾
 	A.stock = '000333.SZ'
 	# 填写自己的账号
-	A.account = '39001785'
+	A.account = 'xxxxxx'
 	# 设置每次交易的股票数量
 	A.volume = 100
 	# 设置k线周期
