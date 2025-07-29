@@ -30,6 +30,7 @@ Please give a star to support it.
 | **聚宽**  | macd不一致研究  | [joinquant_计算macd值与同花顺不一致原因探索.py](joinquant_计算macd值与同花顺不一致原因探索.py)  | [点击跳转](https://www.joinquant.com/view/community/detail/6d7405065eaabd64d156ca52b6ed548b) |
 | ----  |  --------  | --------  | --------  |
 | **qmt**  |  macd策略，实时交易  | [qmt_macd策略.py](qmt_macd策略.py)  | [点击跳转](https://blog.csdn.net/2401_82851462/article/details/146592641) |
+| **qmt**  |  龙头跟随策略，实时交易  | [qmt_龙头跟随_v0.1.py](qmt_龙头跟随_v0.1.py)  | [暂无](...)
 | ----  |  --------  | --------  | --------  |
 | **okx**  |  okx现货交易代码  | [okx_spot_inst_demo.py](okx_spot_inst_demo.py)  | [点击跳转](https://blog.csdn.net/2401_82851462/article/details/146811185) |
 | okx  |  okx合约交易代码  | [okx_contract_swap_demo.py](okx_contract_swap_demo.py)  | [点击跳转](https://blog.csdn.net/2401_82851462/article/details/146639685) |
