@@ -29,9 +29,9 @@ Please give a star to support it.
 | ----  |  --------  | --------  | --------  |
 | **qmt**  |  macd策略，实时交易  | [qmt_macd策略.py](qmt_macd策略.py)  | [点击跳转](https://blog.csdn.net/2401_82851462/article/details/146592641) |
 | **qmt**  |  龙头跟随策略，实时交易  | [qmt_龙头跟随_v0.1.py](qmt_龙头跟随_v0.1.py)  | [暂无](...)
+| **miniQmt**  |  眼哥版本均线策略  | [miniqmt_均线策略_v1.py](miniqmt_均线策略_v1.py)  | [暂无](...)
 | ----  |  --------  | --------  | --------  |
 | **okx**  |  okx现货交易代码  | [okx_spot_inst_demo.py](okx_spot_inst_demo.py)  | [点击跳转](https://blog.csdn.net/2401_82851462/article/details/146811185) |
 | okx  |  okx合约交易代码  | [okx_contract_swap_demo.py](okx_contract_swap_demo.py)  | [点击跳转](https://blog.csdn.net/2401_82851462/article/details/146639685) |
-
 
 
