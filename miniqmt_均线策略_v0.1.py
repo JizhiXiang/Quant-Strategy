@@ -5,7 +5,7 @@ from xtquant import xtdata
 # 参考眼哥均线策略 【15m、120m】【99、128、225】
 
 # 配置
-FREQ = "15m"    # 15 分钟 K 线
+FREQ = "15m"    # 15分钟K线  # 经测试，有时候qmt获取15m有bug，此时切换到1d、5m等，再重试15m
 MA_LIST = [99, 128, 225]  # 均线列表
 STOCK_CODE = "000001.SH"  # 股票代码
 ONLY_TRADING_TIME = False  # 仅交易时间监控, True 仅在交易时间监控, False 24 小时监控
@@ -44,10 +44,10 @@ def get_ma_status(code, freq, ma_list):
     bars = xtdata.get_market_data_ex(field_list=["close"], stock_list=[code],
                                   period=freq, count=COUNT)
     if code not in bars or bars[code].empty:
-        return None, None
+        return None, None, None
     closes = bars[code]['close']
     if len(closes) < max(ma_list):
-        return None, None
+        return None, None, None
     latest_price = closes.iloc[-1]
     result = {}
     ma_values = {}
@@ -63,10 +63,10 @@ def get_ma_status(code, freq, ma_list):
 if __name__ == "__main__":
     xtdata.enable_hello = False
     print("开始启动...")
-    # 先下载历史
-    download_history(STOCK_CODE, FREQ, days=300)
     # 订阅实时 K 线
-    xtdata.subscribe_quote(STOCK_CODE, period=FREQ, count=0)
+    xtdata.subscribe_quote(STOCK_CODE, period=FREQ, count=300)
+    # 下载历史
+    download_history(STOCK_CODE, FREQ, days=300)
     stock_name = get_stock_name(STOCK_CODE)
 
     while True:
