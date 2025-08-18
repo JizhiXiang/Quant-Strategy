@@ -20,7 +20,8 @@ Please give a **star** to support it.
 | ----  |  --------  | --------  | --------  |
 | **okx**  |  okx现货交易代码  | [okx_spot_inst_demo.py](okx_spot_inst_demo.py)  | [点击跳转](https://blog.csdn.net/2401_82851462/article/details/146811185) |
 | okx  |  okx合约交易代码  | [okx_contract_swap_demo.py](okx_contract_swap_demo.py)  | [点击跳转](https://blog.csdn.net/2401_82851462/article/details/146639685) |
-
+| ----  |  --------  | --------  | --------  |
+| **yfinance库**  |  同时支持A股和BTC等数据,多周期均线策略  | [yfinace_多标的多均线_v0.1.py](yfinace_多标的多均线_v0.1.py)  | 暂无 |
 
 ## 关于作者
 | 平台 | 链接 | 说明 |
