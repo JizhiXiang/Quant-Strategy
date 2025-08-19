@@ -17,6 +17,7 @@ Please give a **star** to support it.
 | **qmt**  |  macd策略，实时交易  | [qmt_macd策略.py](qmt_macd策略.py)  | [点击跳转](https://blog.csdn.net/2401_82851462/article/details/146592641) |
 | **qmt**  |  龙头跟随策略，实时交易  | [qmt_龙头跟随_v0.1.py](qmt_龙头跟随_v0.1.py)  |暂无 |
 | **miniQmt**  |  眼哥版本均线策略  | [miniqmt_均线策略_v0.1.py](miniqmt_均线策略_v0.1.py)  | 暂无 |
+| **miniQmt**  |  保存概念板块对应的股票  | [miniqmt_概念板块.py](miniqmt_概念板块.py)  | [点击跳转](https://blog.csdn.net/2401_82851462/article/details/150526288) |
 | ----  |  --------  | --------  | --------  |
 | **okx**  |  okx现货交易代码  | [okx_spot_inst_demo.py](okx_spot_inst_demo.py)  | [点击跳转](https://blog.csdn.net/2401_82851462/article/details/146811185) |
 | okx  |  okx合约交易代码  | [okx_contract_swap_demo.py](okx_contract_swap_demo.py)  | [点击跳转](https://blog.csdn.net/2401_82851462/article/details/146639685) |
@@ -31,7 +32,7 @@ Please give a **star** to support it.
 | 微信群  | 暂无链接   | 技术交流(➕V拉你)  |
 | csdn博客  | [点击跳转](https://blog.csdn.net/2401_82851462)   | 博客发布  |
 | joinquant聚宽  | [点击跳转](https://www.joinquant.com/view/community/detail/2e31e2d643c391e9eeed79e4d107c0fd)   | 可复制回测  |
-| QQ群  | 983459113   | 资料下载(目前不太用)  |
+| QQ群  | 983459113   | 资料下载  |
 | X/telegram  | TraderMaga59800   | Foreign users  |
 
 ## 其他 
