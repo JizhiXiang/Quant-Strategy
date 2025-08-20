@@ -15,14 +15,14 @@ Please give a **star** to support it.
 | **聚宽**  | 价值投资 选股  | [joinquant_价值投资-选股策略.py](joinquant_价值投资-选股策略.py)  | [点击跳转](https://www.joinquant.com/view/community/detail/3ebb210833ad51d08e225b44dcfc8188) |
 | ----  |  --------  | --------  | --------  |
 | **qmt**  |  macd策略，实时交易  | [qmt_macd策略.py](qmt_macd策略.py)  | [点击跳转](https://blog.csdn.net/2401_82851462/article/details/146592641) |
-| **qmt**  |  龙头跟随策略，实时交易  | [qmt_龙头跟随_v0.1.py](qmt_龙头跟随_v0.1.py)  |暂无 |
-| **miniQmt**  |  眼哥版本均线策略  | [miniqmt_均线策略_v0.1.py](miniqmt_均线策略_v0.1.py)  | 暂无 |
+| **qmt**  |  龙头跟随策略，实时交易  | [qmt_龙头跟随_v1.py](qmt_龙头跟随_v1.py)  |暂无 |
+| **miniQmt**  |  眼哥版本均线策略  | [miniqmt_均线策略_v1.py](miniqmt_均线策略_v1.py)  | 暂无 |
 | **miniQmt**  |  保存概念板块对应的股票  | [miniqmt_概念板块.py](miniqmt_概念板块.py)  | [点击跳转](https://blog.csdn.net/2401_82851462/article/details/150526288) |
 | ----  |  --------  | --------  | --------  |
 | **okx**  |  okx现货交易代码  | [okx_spot_inst_demo.py](okx_spot_inst_demo.py)  | [点击跳转](https://blog.csdn.net/2401_82851462/article/details/146811185) |
 | okx  |  okx合约交易代码  | [okx_contract_swap_demo.py](okx_contract_swap_demo.py)  | [点击跳转](https://blog.csdn.net/2401_82851462/article/details/146639685) |
 | ----  |  --------  | --------  | --------  |
-| **yfinance库**  |  同时支持A股和BTC等数据,多周期均线策略  | [yfinace_多标的多均线_v0.1.py](yfinace_多标的多均线_v0.1.py)  | 暂无 |
+| **yfinance库**  |  同时支持A股和BTC等数据,多周期均线策略  | [yfinace_多标的多均线_v1.py](yfinace_多标的多均线_v1.py)  | 暂无 |
 
 ## 关于作者
 | 平台 | 链接 | 说明 |
