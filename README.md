@@ -15,6 +15,7 @@ Please give a **star** to support it.
 | **聚宽**  | 价值投资 选股  | [joinquant_价值投资-选股策略.py](joinquant_价值投资-选股策略.py)  | [点击跳转](https://www.joinquant.com/view/community/detail/3ebb210833ad51d08e225b44dcfc8188) |
 | **聚宽**  | 先获取概念板块,对应的股票；最近5年roe均大于当年的平均水平, 最近一年roe排名前30%, 按照板块+roe降序排序  | [joinquant_概念板块+基本面选股.py](joinquant_概念板块+基本面选股.py)  | [点击跳转](https://www.joinquant.com/view/community/detail/d69f30e5adbf3d97a6c901a535e91574) |
 | **聚宽**  | 探索指数背后的市盈率PE  | [joinquant_手动计算板块指数的PE.py](joinquant_手动计算板块指数的PE.py)  | [点击跳转](https://www.joinquant.com/view/community/detail/672f025e00eb79ad69458f8ae0dc9f07) |
+| **聚宽**  | 在PE低的时候买入,在高的时候卖出  | [joinquant_上证50利用动态PE增强模型.py](joinquant_上证50利用动态PE增强模型.py)  | [点击跳转](https://www.joinquant.com/view/community/detail/77f4163b263ce4ada2e2bd0a42da12fc) |
 | ----  |  --------  | --------  | --------  |
 | **qmt**  |  macd策略，实时交易  | [qmt_macd策略.py](qmt_macd策略.py)  | [点击跳转](https://blog.csdn.net/2401_82851462/article/details/146592641) |
 | **qmt**  |  龙头跟随策略，实时交易  | [qmt_龙头跟随_v1.py](qmt_龙头跟随_v1.py)  |暂无 |
