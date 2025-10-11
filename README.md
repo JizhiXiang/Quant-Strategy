@@ -53,6 +53,7 @@ Please give a **star** to support it.
 | **Freqtrade**  |  [Freqtrade - Basics 基础知识](https://blog.csdn.net/2401_82851462/article/details/152449171)  |   |
 | **Freqtrade**  |  [Freqtrade - Configuration 所有配置大全](https://blog.csdn.net/2401_82851462/article/details/152509134)  |   |
 | **Freqtrade**  |  [Freqtrade - Strategy Quickstart 策略快速入门](https://blog.csdn.net/2401_82851462/article/details/152551811)  |   |
+| **Freqtrade**  |  [Freqtrade - Strategy Customization 策略定制](https://blog.csdn.net/2401_82851462/article/details/152558958)  |   |
 
 
 ## 关于作者
