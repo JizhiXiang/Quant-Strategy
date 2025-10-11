@@ -33,20 +33,20 @@ Please give a **star** to support it.
 ## 技术博客详情
 | 类型 | 链接 | 说明 |
 |:-------|:-------:|-------:|
-| **ML4T**  | [ML4T - 第7章第1节 A - 简单线性回归Simple Regression](https://blog.csdn.net/2401_82851462/article/details/151797538)   | ML4T（machine-learning-for-trading）  |
-| **ML4T**  | [ML4T - 第7章第1节 B - 多变量线性回归Multiple Regression](https://blog.csdn.net/2401_82851462/article/details/151800340)   |    |
-| **ML4T**  | [ML4T - 第7章第1节 C - 随机梯度下降回归 Stochastic Gradient Descent Regression (SGDRegressor)](https://blog.csdn.net/2401_82851462/article/details/151835632)   |    |
-| **ML4T**  | [ML4T - 第7章第2节 A - 五因子 Fama-French 模型 (Five Fama-French factors)](https://blog.csdn.net/2401_82851462/article/details/152028438)   |    |
-| **ML4T**  | [ML4T - 第7章第2节 B - Fama–MacBeth经典两步法(Fama–MacBeth classic two-step method)](https://blog.csdn.net/2401_82851462/article/details/152030237)   |    |
-| **ML4T**  | [ML4T - 第7章第3节 数据准备(preparing the model data)](https://blog.csdn.net/2401_82851462/article/details/152088331)   |    |
-| **ML4T**  | [ML4T - Quandl Wiki数据下载和处理(Quandl Wiki Prices)](https://blog.csdn.net/2401_82851462/article/details/152044155)   |    |
-| **ML4T**  | [ML4T - 第7章第4节 线性回归统计 Linear Regression for Statistics](https://blog.csdn.net/2401_82851462/article/details/152218052)   |    |
-| **ML4T**  | [ML4T - 第7章第5节 用线性回归预测股票回报Prediction stock returns with linear regression](https://blog.csdn.net/2401_82851462/article/details/152312641)   |    |
-| **ML4T**  | [ML4T - 第7章第6节 使用Alphalens进行分析 Alphalens Analysis](https://blog.csdn.net/2401_82851462/article/details/152330419)   |    |
-| **ML4T**  | [ML4T - 第7章第7节 逻辑回归拟合宏观数据Logistic Regression with Macro Data](https://blog.csdn.net/2401_82851462/article/details/152361155)   |    |
-| **ML4T**  | [ML4T - 第7章第8节 利用LR预测股票价格走势Predicting stock price moves with Logistic Regression](https://blog.csdn.net/2401_82851462/article/details/152363089)   |    |
-| **ML4T**  | [ML4T - 第8章第0节 数据准备Data prep](https://blog.csdn.net/2401_82851462/article/details/152369143)   |    |
-| **ML4T**  | [ML4T - 第8章第1节 蒙特卡洛估计夏普率 Monte Carlo Estimation of Sharpe Ratio](https://blog.csdn.net/2401_82851462/article/details/152370892)   |    |
+| **ML4T**  | [ML4T - 第7章第1节 A - 简单线性回归Simple Regression](https://blog.csdn.net/2401_82851462/article/details/151797538)   | ML4T（machine-learning-for-trading）[点击](ML4T/07_01_A_simple_regression.ipynb)  |
+| **ML4T**  | [ML4T - 第7章第1节 B - 多变量线性回归Multiple Regression](https://blog.csdn.net/2401_82851462/article/details/151800340)   | [点击代码](ML4T/07_01_B_multiple_regression.ipynb) |
+| **ML4T**  | [ML4T - 第7章第1节 C - 随机梯度下降回归 Stochastic Gradient Descent Regression (SGDRegressor)](https://blog.csdn.net/2401_82851462/article/details/151835632)   | [点击](ML4T/07_01_C_SGDRegressor.ipynb) |
+| **ML4T**  | [ML4T - 第7章第2节 A - 五因子 Fama-French 模型 (Five Fama-French factors)](https://blog.csdn.net/2401_82851462/article/details/152028438)   | [点击](ML4T/07_02_fama_macbeth.ipynb) |
+| **ML4T**  | [ML4T - 第7章第2节 B - Fama–MacBeth经典两步法(Fama–MacBeth classic two-step method)](https://blog.csdn.net/2401_82851462/article/details/152030237)   |  [点击](ML4T/07_02_fama_macbeth.ipynb) |
+| **ML4T**  | [ML4T - 第7章第3节 数据准备(preparing the model data)](https://blog.csdn.net/2401_82851462/article/details/152088331)   | [点击](ML4T/07_03_preparing_the_model_data.ipynb) |
+| **ML4T**  | [ML4T - Quandl Wiki数据下载和处理(Quandl Wiki Prices)](https://blog.csdn.net/2401_82851462/article/details/152044155)   |  [点击](ML4T/create_datasets_Quandl_Wiki.ipynb) |
+| **ML4T**  | [ML4T - 第7章第4节 线性回归统计 Linear Regression for Statistics](https://blog.csdn.net/2401_82851462/article/details/152218052)   |  [点击](ML4T/07_04_statistical_inference.ipynb)  |
+| **ML4T**  | [ML4T - 第7章第5节 用线性回归预测股票回报Prediction stock returns with linear regression](https://blog.csdn.net/2401_82851462/article/details/152312641)   |  [点击](ML4T/07_05_predicting_stock.ipynb)  |
+| **ML4T**  | [ML4T - 第7章第6节 使用Alphalens进行分析 Alphalens Analysis](https://blog.csdn.net/2401_82851462/article/details/152330419)   |  [点击](ML4T/07_06_alphalens_analysis.ipynb)  |
+| **ML4T**  | [ML4T - 第7章第7节 逻辑回归拟合宏观数据Logistic Regression with Macro Data](https://blog.csdn.net/2401_82851462/article/details/152361155)   | [点击](ML4T/07_07_logistic_regression_macro_data.ipynb)  |
+| **ML4T**  | [ML4T - 第7章第8节 利用LR预测股票价格走势Predicting stock price moves with Logistic Regression](https://blog.csdn.net/2401_82851462/article/details/152363089)   |  [点击](ML4T/07_08_predicting_price_movements_with_logistic_regression.ipynb)  |
+| **ML4T**  | [ML4T - 第8章第0节 数据准备Data prep](https://blog.csdn.net/2401_82851462/article/details/152369143)   |  [点击](ML4T/08_00_data_prep.ipynb)  |
+| **ML4T**  | [ML4T - 第8章第1节 蒙特卡洛估计夏普率 Monte Carlo Estimation of Sharpe Ratio](https://blog.csdn.net/2401_82851462/article/details/152370892)   | [点击](ML4T/08_01_deflated_sharpe_ratio.ipynb)   |
 | ----  |  --------  | --------  |
 | **Freqtrade**  |  [Freqtrade - 入门及手动安装记录](https://blog.csdn.net/2401_82851462/article/details/152408528)  | Freqtrade交易机器人 |
 | **Freqtrade**  |  [Freqtrade - 快速开始Quick Start](https://blog.csdn.net/2401_82851462/article/details/152457733)  |   |
