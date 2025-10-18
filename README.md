@@ -29,6 +29,11 @@ Please give a **star** to support it.
 | ----  |  --------  | --------  | --------  |
 | **AI**  |  DeepLOB (CNN+LSTM订单簿预测)  | [AI_DeepLOP.ipynb](AI_DeepLOP.ipynb)  | [点击跳转](https://blog.csdn.net/2401_82851462/article/details/152929338?spm=1001.2014.3001.5501) |
 | **ML机器学习**  |  DT决策树demo  | [ML_DT决策树_分类demo.py](ML_DT决策树_分类demo.py) [回归](ML_DT决策树_回归demo.py) [排序](ML_DT决策树_排序demo.py)  | [原理](https://blog.csdn.net/2401_82851462/article/details/153270345) [实战](https://blog.csdn.net/2401_82851462/article/details/153318481) |
+| ----  |  --------  | --------  | --------  |
+| **Qlib量化工具**  |  查看下载好的数据  | [A股数据](qlib_view_data_cn.py)  [美股数据](qlib_view_data_us.py)  | [教程](https://blog.csdn.net/2401_82851462/article/details/153412578) |
+| **Qlib**  |  查看Alpha158、Alpha360因子  | [158因子](qlib_view_Alpha158.py)  [360因子](qlib_view_Alpha360.py)  | 待更新 |
+| **Qlib**  |  公式化构建因子  | [qlib_build_formulaic_Alphas.py](qlib_build_formulaic_Alphas.py) | 待更新 |
+| **Qlib**  |  模型的训练和预测  | [qlib_model_demo.py](qlib_model_demo.py) | 待更新 |
 
 
 ## 技术博客详情
