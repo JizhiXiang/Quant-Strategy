@@ -35,7 +35,8 @@ Please give a **star** to support it.
 | **Qlib**  |  公式化构建因子  | [qlib_build_formulaic_Alphas.py](qlib_build_formulaic_Alphas.py) | [文章解说](https://blog.csdn.net/2401_82851462/article/details/153475698) |
 | **Qlib**  |  模型的训练和预测  | [qlib_model_demo.py](qlib_model_demo.py) | [文章解说](https://blog.csdn.net/2401_82851462/article/details/153516213) |
 | **Qlib**  |  利用训练好的模型进行回测  | [qlib_backtest_demo.py](qlib_backtest_demo.py) | [文章解说](https://blog.csdn.net/2401_82851462/article/details/153526690) |
-
+| ----  |  --------  | --------  | --------  |
+| **optuna**  |  自动调参利器&python实例  | [optuna_LGB_demo.py](optuna_LGB_demo.py) | [文章解说](https://blog.csdn.net/2401_82851462/article/details/153694992) |
 
 
 ## 技术博客详情
