@@ -6,6 +6,10 @@ qmt、ptrade、okx、bnb、joinquant聚宽、机器学习ML、人工智能AI
 麻烦点个**小星星**支持一下哦~（点star后会更多人看到这个项目，作者有持续更新下去的动力）  
 Please give a **star** to support it.  
 
+## News新闻
+有些朋友反馈看不懂，希望能有<b>0基础新手教程</b>，所以我想11月中旬或者12月上旬开始，开设<mark>《零基础量化入门》</mark>直播课程。
+花<b>一个月时间</b>（4周、除去周末），<b>每天晚上直播授课半小时</b>，感兴趣的可以点击[查看详情](零基础量化交易入门课程/README.md)。
+
 ## 内容介绍
 |  平台  | 说明 | 文件 | 外部链接 | 
 |:-------|:-------:|-------:|-------:|
@@ -76,8 +80,6 @@ Please give a **star** to support it.
 | QQ群  | 983459113   | 资料下载  |
 | X/telegram  | MangoQuant   | Foreign users  |
 
-注：如果有不错的远程quant工作，可以联系我，感谢~  
-Note: If there are any good remote quantitative analyst jobs, feel free to contact me. Thank you  
 
 ## 其他 
 量化优势：对抗人性、不用盯盘、数据分析  
