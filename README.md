@@ -3,8 +3,8 @@ qmt、ptrade、okx、bnb、joinquant聚宽、机器学习ML、人工智能AI
 [点这里readme](README.md) 查看格式更好
 
 这是一个量化代码合集，目前是以qmt、okx、聚宽为主，也会写一些技术博客，涉及到机器学习和人工智能量化，逐步完善  
-麻烦点个**小星星**支持一下哦~（点star后会更多人看到这个项目，作者有持续更新下去的动力）  
-Please give a **star** to support it.  
+欢迎**小星星**支持一下哦~
+
 
 ## 内容介绍
 |  平台  | 说明 | 文件 | 外部链接 | 
@@ -68,19 +68,16 @@ Please give a **star** to support it.
 ## 关于作者
 | 平台 | 链接 | 说明 |
 |:-------|:-------:|-------:|
-| 微信  | yiyou888wx   | 备注GitHub(方便的话star下，感谢)  |
 | 小红书  | 搜"[芒果量化](https://www.xiaohongshu.com/user/profile/5cd95d290000000005038083)"   | 图文解说  |
-| 微信群  | 暂无链接   | 技术交流(➕V拉你)  |
 | csdn博客  | [点击跳转](https://blog.csdn.net/2401_82851462)   | 博客发布  |
 | joinquant聚宽  | [点击跳转](https://www.joinquant.com/view/community/detail/2e31e2d643c391e9eeed79e4d107c0fd)   | 可复制回测  |
-| QQ群  | 983459113   | 资料下载  |
-| X/telegram  | MangoQuant   | Foreign users  |
 
 
-## 其他 
-量化优势：对抗人性、不用盯盘、数据分析  
-量化优势显而易见，也是将来发展的趋势，比别人多一条路总是好的。  
-有基础的可能看懂我的源码，运行调试修改也比较方便，要是有不太懂的可以问问AI。 
+
+## 使用方法
+有基础的可能看懂我的源码，运行调试修改也比较方便。  
+要是有不太懂的可以问问AI。 
+0基础的可以直接用cursor之类的AI进行项目解读。  
 
 
 
