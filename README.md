@@ -28,6 +28,7 @@ qmt、ptrade、okx、bnb、joinquant聚宽、机器学习ML、人工智能AI
 | **yfinance库**  |  同时支持A股和BTC等数据,多周期均线策略  | [yfinace_多标的多均线_v1.py](yfinace_多标的多均线_v1.py)  | 暂无 |
 | ----  |  --------  | --------  | --------  |
 | **AI**  |  DeepLOB (CNN+LSTM订单簿预测)  | [AI_DeepLOP.ipynb](AI_DeepLOP.ipynb)  | [点击跳转](https://blog.csdn.net/2401_82851462/article/details/152929338?spm=1001.2014.3001.5501) |
+| **AI**  |  AlphaForge：公式因子挖掘与动态组合解读  | [AI_AlphaForge解读.md](AI_AlphaForge解读.md)  | [文章解说](https://blog.csdn.net/2401_82851462/article/details/169152362) |
 | **ML机器学习**  |  DT决策树demo  | [ML_DT决策树_分类demo.py](ML_DT决策树_分类demo.py) [回归](ML_DT决策树_回归demo.py) [排序](ML_DT决策树_排序demo.py)  | [原理](https://blog.csdn.net/2401_82851462/article/details/153270345) [实战](https://blog.csdn.net/2401_82851462/article/details/153318481) |
 | ----  |  --------  | --------  | --------  |
 | **Qlib量化工具**  |  查看下载好的数据  | [A股数据](qlib_view_data_cn.py)  [美股数据](qlib_view_data_us.py)  | [教程](https://blog.csdn.net/2401_82851462/article/details/153412578) |
@@ -78,6 +79,5 @@ qmt、ptrade、okx、bnb、joinquant聚宽、机器学习ML、人工智能AI
 有基础的可能看懂我的源码，运行调试修改也比较方便。  
 要是有不太懂的可以问问AI。 
 0基础的可以直接用cursor之类的AI进行项目解读。  
-
 
 
